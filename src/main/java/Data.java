@@ -1,11 +1,19 @@
 import jakarta.xml.bind.annotation.XmlElement;
 import jakarta.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name="LOL")
+@XmlRootElement(name="Campeon")
 public class Data {
     String name;
     String rol;
     String historia;
+
+    public Data(String name, String rol, String historia) {
+        this.name = name;
+        this.rol = rol;
+        this.historia = historia;
+    }
+    public Data(){}
+
 
     public String getName() {
         return name;

@@ -6,7 +6,6 @@ import org.openqa.selenium.firefox.FirefoxOptions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import javax.xml.crypto.Data;
 import java.io.File;
 import java.time.Duration;
 import java.util.*;
@@ -47,10 +46,11 @@ public class Main {
     WebElement rol;
     WebElement historia;
     String nom,rols,historias;
-    int b = 0;
+    JAXB jaxb;
+    CSV csv;
+    int cont = 0;
     for (String c: li) {
-      if (b < 2){
-
+      if (cont <5){
         driver.get(c);
         driverWait.until(ExpectedConditions.elementToBeClickable(new By.ByClassName("style__OptionIconBorder-sc-1ac4kmt-7")));
         nombreList = driver.findElements(new By.ByClassName("style__RevealWrapper-sc-14kr0ky-0"));
@@ -60,20 +60,12 @@ public class Main {
         historia = driver.findElement(new By.ByClassName("style__Desc-sc-8gkpub-9"));
         historias = historia.getText();
         champions.add(new Champion(nom,rols,historias));
-        b++;
+        csv = new CSV(nom,rols,historias);
+        cont++;
       }else{
-
         break;
       }
-
     }
-    File file = new File("lol.csv");
-    CSV csv = new CSV(champions,file);
-
-    JAXB_xml xml;
-
-    for (Champion c: champions){
-      xml = new JAXB_xml(c.getNombre(),c.getRol(),c.getHistoria());
-    }
+    jaxb = new JAXB(champions);
   }
 }
