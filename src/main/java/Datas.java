@@ -16,4 +16,7 @@ public class Datas {
     public void setDatos(List<Data> datos) {
         this.datos = datos;
     }
+    public void addDatos(Data data){
+        this.datos.add(data);
+    }
 }

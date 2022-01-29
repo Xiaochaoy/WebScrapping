@@ -50,7 +50,7 @@ public class Main {
     CSV csv;
     int cont = 0;
     for (String c: li) {
-      if (cont <5){
+      if (cont <3){
         driver.get(c);
         driverWait.until(ExpectedConditions.elementToBeClickable(new By.ByClassName("style__OptionIconBorder-sc-1ac4kmt-7")));
         nombreList = driver.findElements(new By.ByClassName("style__RevealWrapper-sc-14kr0ky-0"));
@@ -60,12 +60,13 @@ public class Main {
         historia = driver.findElement(new By.ByClassName("style__Desc-sc-8gkpub-9"));
         historias = historia.getText();
         champions.add(new Champion(nom,rols,historias));
-        csv = new CSV(nom,rols,historias);
+
         cont++;
       }else{
         break;
       }
     }
+    csv = new CSV(champions);
     jaxb = new JAXB(champions);
   }
 }
