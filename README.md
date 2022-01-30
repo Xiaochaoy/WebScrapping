@@ -12,4 +12,4 @@
 
 
 # JAVADOC
-[Javadoc.html](https://github.com/Xiaochaoy/WebScrapping/blob/c8cdac4f297cfccc045f7c365c0afacc54ec2e69/src/main/JavaDoc/package-summary.html)	
+[Javadoc.html](src/main/JavaDoc/package-summary.html)	
