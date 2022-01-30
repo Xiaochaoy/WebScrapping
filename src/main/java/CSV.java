@@ -6,8 +6,16 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Esta es la clase que sirve para crear fichero CSV con los datos que sacamos en la clase Webscapping
+ */
 public class CSV {
     File file = new File("lol.csv");
+
+    /**
+     * Esto es el metodo que recibe un parametro y lo mete en CSV.
+     * @param champions recibe un lista de objetos de champion
+     */
     public CSV(List<Champion> champions) {
         CSVWriter csvWriter;
         String[] head = {"Nom","Rol","Historia"};
