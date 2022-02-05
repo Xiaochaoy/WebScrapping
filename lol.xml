@@ -15,4 +15,779 @@
         <CHAMPION_NAME>AKALI</CHAMPION_NAME>
         <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
     </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Impávido ante el peligro, Akshan combate el mal con gran carisma, ganas de impartir justa venganza y una evidente falta de camisetas. Domina el arte del combate sigiloso, por lo que es capaz de desaparecer a los ojos de sus enemigos y volver a aparecer... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>AKSHAN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Alistar, un poderoso guerrero con una reputación temible, busca venganza por la muerte de su clan a manos del imperio noxiano. Aunque fue esclavizado y forzado a vivir como gladiador, fue su voluntad inquebrantable lo que le impidió convertirse en una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ALISTAR</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Cuenta la leyenda que Amumu es un alma solitaria y melancólica de la vieja Shurima que vaga por el mundo en busca de un amigo. Condenado por una maldición ancestral, su destino es permanecer solo para siempre, pues su tacto es muerte y su cariño, la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>AMUMU</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Anivia es un espíritu alado benevolente que soporta ciclos interminables de vida, muerte y nacimiento para proteger Freljord. Semidiosa nacida del hielo implacable y los vientos crueles, canaliza estos poderes elementales para anular a cualquiera que se... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ANIVIA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Peligrosa pero encantadoramente precoz, Annie es una pequeña maga con un inmenso poder piromántico. Incluso en los parajes montañosos al norte de Noxus es una hechicera sin precedentes. Su afinidad natural con el fuego se manifestó a temprana edad en... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ANNIE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Aphelios emerge de entre las sombras de la noche con armas en mano y asesina a los enemigos de su fe en un silencio inquietante, hablando a tiro limpio únicamente a través de la certitud de su puntería. Un veneno que le impide hablar se encarga de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>APHELIOS</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ashe, comandante hija del hielo de la tribu de Avarosa, lidera las hordas más numerosas del norte. Impasible, inteligente e idealista, aunque incómoda en su papel de líder, utiliza los poderes mágicos ancestrales de su linaje para empuñar un arco de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ASHE</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Aurelion Sol solía agraciar al vasto vacío del cosmos con las maravillas celestiales que él mismo ideaba. Ahora, se ve forzado a hacer uso de su increíble poder para satisfacer los deseos de un imperio espacial que lo ha engañado para convertirlo en su... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>AURELION SOL</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Azir, emperador de Shurima en un pasado remoto, fue un hombre orgulloso que estuvo a punto de alcanzar la inmortalidad. Dominado por la arrogancia, fue traicionado y asesinado en la hora de su mayor triunfo, pero ahora, milenios después, ha renacido... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>AZIR</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Bardo, un viajero de más allá de las estrellas, es un agente de la serendipia que lucha para mantener un equilibrio en el que la vida pueda soportar la indiferencia del caos. Muchos habitantes de Runaterra cantan canciones que hablan de su naturaleza... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>BARDO</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Blitzcrank es un autómata enorme, casi indestructible, creado originalmente para el tratamiento de residuos tóxicos. Sin embargo, este propósito original le parecía demasiado restrictivo, así que se automodificó para servir mejor a los débiles del... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>BLITZCRANK</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Brand, antiguo miembro de la tribu Kegan Rodhe del helado Freljord, es una lección sobre la tentación de un poder mayor. En busca de una de las legendarias Runas Geogénicas, Kegan traicionó a sus compañeros y se quedó con la runa. El hombre desapareció... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>BRAND</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Bendecido con bíceps enormes y un corazón aún más grande, Braum es un héroe muy apreciado en Freljord. Todas las tabernas al norte del Fuerte Helado brindan por su fuerza legendaria. Se dice que taló un bosque de robles en una sola noche y convirtió una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>BRAUM</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Reconocida como su mejor pacificadora, Caitlyn es también la mejor arma de Piltover para librar a la ciudad de sus elusivos elementos criminales. A menudo trabaja con Vi, y actúa como un frío y eficiente contrapunto para la naturaleza más impetuosa de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>CAITLYN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Convertida en un arma viviente diseñada para operar fuera de la ley, Camille es la jefa de espías del clan Ferros, una elegante agente de élite que se asegura de que nada amenace el funcionamiento de Piltover ni de Zaun. Su adaptabilidad y minuciosidad... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>CAMILLE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Cassiopeia es una criatura mortal empeñada en manipular a otros según su siniestra voluntad. La hija más joven y hermosa de la noble familia Du Couteau de Noxus, se aventuró en lo más profundo de las criptas debajo de Shurima en busca de poder ancestral... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>CASSIOPEIA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Desde el momento en que Cho'Gath emergió por primera vez a la dura luz solar de Runaterra, a la bestia solo le impulsaba el hambre más pura e insaciable. La perfecta expresión del deseo del Vacío de acabar con la vida, la compleja biología de Cho'Gath... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>CHO'GATH</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El piloto yordle Corki adora dos cosas por encima de todas las demás: volar y su glamuroso bigote. Aunque no necesariamente en ese orden. Tras abandonar la Ciudad de Bandle, se estableció en Piltover y se enamoró de las máquinas maravillosas que allí... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>CORKI</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>No hay mayor símbolo del poder de Noxus que Darius, el comandante más temido y más curtido en batallas de toda la nación. Pasando de orígenes humildes a convertirse en la Mano de Noxus, se abre paso a tajos entre los enemigos del imperio, muchos de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>DARIUS</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Portadora de una espada en forma de media luna, Diana es una guerrera de los Lunari, una fe rechazada en casi todas las tierras a los pies del Monte Targon. Ataviada con una armadura reluciente del color de la nieve en una noche de invierno, es la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>DIANA</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Loco de remate, trágicamente homicida, terriblemente morado: el Dr. Mundo es lo que mantiene en sus casas a muchos habitantes de Zaun en las noches especialmente oscuras. Este autoproclamado doctor fue paciente del psiquiátrico más infame de Zaun. Tras... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>DR. MUNDO</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En Noxus, los guerreros conocidos como 'justicieros' se enfrentan en recintos donde corre la sangre y se pone a prueba la fortaleza. Pero ninguno ha alcanzado la fama de Draven, un antiguo soldado cuyo sentido del espectáculo y habilidad sin igual con... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>DRAVEN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ekko, un prodigio surgido de las implacables calles de Zaun, manipula el tiempo para sacar ventaja de todas las situaciones. Con una máquina de su invención llamada Dispositivo Z, explora las distintas posibilidades de la realidad hasta alcanzar el... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>EKKO</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Elise es una letal depredadora que mora en un palacio cerrado y sin luz situado en el corazón de la ciudad más antigua de Noxus. En su día fue una mujer mortal, señora de una casa poderosa, pero la picadura de un malvado semidiós la transformó en una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ELISE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En los oscuros adentros de Runaterra, el súcubo Evelynn deambula en busca de su siguiente víctima. Acecha a sus presas con una voluptuosa fachada femenina, pero cuando alguien sucumbe a sus encantos, Evelynn libera su auténtica forma. Después somete a... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>EVELYNN</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ezreal, un aventurero aficionado a deslizarse y dotado de artes mágicas sin saberlo, saquea catacumbas perdidas, lidia con maldiciones ancestrales y supera con facilidad adversidades imposibles. De valor y chulería sin límites, prefiere improvisar para... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>EZREAL</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Algo ha despertado en Runaterra. Algo ancestral. Algo terrible. El horror conocido como Fiddlesticks acecha en las lindes de la sociedad, en las zonas en las que impera la paranoia, donde se alimenta de aquellos a los que aterroriza. Armada con una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>FIDDLESTICKS</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Fiora, la duelista más temida de Valoran, ha alcanzado renombre por su estilo brusco y su mente astuta, así como por la velocidad de su estoque. Fiora nació en el seno de la Casa Laurent, en el reino de Demacia, y asumió el control de la familia a raíz... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>FIORA</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Fizz es un yordle anfibio que habita entre los arrecifes de alrededor de Aguas Estancadas. Suele recuperar y devolver los diezmos arrojados al mar por capitanes supersticiosos, pero incluso los marineros más agudos saben que no hay que plantarle cara... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>FIZZ</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Fuera de la reluciente ciudad de Demacia, el coloso de piedra Galio se mantiene vigilante. Construido como un baluarte contra los magos enemigos, suele permanecer inmóvil durante décadas hasta que la presencia de magia poderosa lo vuelve a traer a la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GALIO</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Tan impredecible como brutal, el destronado rey de los piratas conocido como Gangplank es temido a lo largo y ancho del mundo. Antes gobernaba la ciudad portuaria de Aguas Estancadas, y aunque su reinado haya terminado, hay quienes creen que esto solo... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GANGPLANK</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Garen, un orgulloso y noble guerrero, lucha en las filas de la Vanguardia Impertérrita. Es querido entre sus compañeros y respetado por sus enemigos, y no solo por ser vástago de la prestigiosa familia Crownguard, responsable de la defensa de Demacia y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GAREN</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Gnar es un yordle primitivo cuyas payasadas lúdicas pueden estallar en la ira de un niño pequeño en un instante, transformándolo en una bestia enorme empeñada en la destrucción. Congelado en Hielo Puro durante milenios, la curiosa criatura se liberó y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GNAR</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Alegre e imponente por partes iguales, Gragas es un cervecero enorme y provocador en su propia búsqueda de la pinta de cerveza perfecta. Proveniente de lugares desconocidos, ahora busca ingredientes raros entre los intactos páramos de Freljord, probando... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GRAGAS</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Malcolm Graves es un famoso mercenario, jugador y ladrón. Un hombre buscado en todas las ciudades e imperios que ha visitado. A pesar de su temperamento explosivo, posee un firme sentido del honor criminal, que a menudo ejecuta con su escopeta de doble... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GRAVES</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Gwen, una muñeca a la que la magia confirió vida, va armada con los mismos utensilios que en su día la confeccionaron. Lleva consigo la fuerza del amor de su creadora en cada paso que da y es consciente de la maravilla de vivir. La Niebla consagrada... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>GWEN</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Hecarim es una fusión espectral de hombre y bestia, condenado a arrollar las almas de los vivos por toda la eternidad. Cuando las Islas Bendecidas cayeron en la sombra, este orgulloso caballero fue aniquilado por las energías destructivas de la Ruina... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>HECARIM</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El profesor Cecil B. Heimerdinger, un científico yordle excéntrico pero brillante, es considerado una de las mentes más innovadoras y uno de los inventores más admirados de la historia de Piltover. Tiene una dedicación incesante en su trabajo hasta el... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>HEIMERDINGER</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El poderoso físico de Illaoi solo se ve empequeñecido por su indómita fe. Como profeta del Gran Kraken, hace uso de un gran ídolo de oro para arrancar el espíritu del cuerpo de sus enemigos y fracturar su percepción de la realidad. Todo el que desafía a... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ILLAOI</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>La ocupación noxiana de Jonia produjo mucho héroes, pero ninguno más improbable que la joven Irelia de Navori. Se entrenó en las antiguas danzas de su gente y adaptó su arte para la guerra, usando los movimientos elegantes y diligentemente practicados... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>IRELIA</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ivern Bósquez, conocido por muchos como el Padre Arborescente, es un ser peculiar, mitad humano y mitad árbol, que deambula por los bosques de Runaterra y cultiva la vida allá donde va. Conoce los secretos del mundo natural y es buen amigo de todo lo... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>IVERN</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Janna, armada con el poder de los vendavales de Runaterra, es un misterioso espíritu elemental que aprovecha el viento para proteger a los más desfavorecidos de Zaun. Hay quien cree que surgió de los ruegos de los marineros de Runaterra, que rezaban por... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JANNA</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El príncipe Jarvan, descendiente de la dinastía Escudo de Luz, es heredero al trono de Demacia. Criado para ser ejemplo de las mayores virtudes de su nación, se ve obligado a equilibrar las grandes expectativas que se le imponen con su propio deseo de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JARVAN IV</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Incomparable en su habilidad con armas especiales y su mordaz sarcasmo, Jax es el último maestro de armas conocido de Icathia. Después de que su tierra natal fuera devastada por su propia arrogancia al desatar el Vacío, Jax y los suyos juraron proteger... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JAX</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Jayce es un brillante inventor que ha jurado defender con su vida a Piltover y a su irreductible afán de progreso. Empuñando su martillo hextech transformable, Jayce hace uso de su fuerza, coraje y considerable inteligencia para proteger su ciudad natal... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JAYCE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Jhin es un meticuloso criminal psicópata que ve el asesinato como arte. Otrora prisionero jonio, fue liberado gracias a los sombríos tejemanejes del consejo de Jonia. Ahora, el asesino en serie trabaja como sicario de la secta. Con su pistola como... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JHIN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Jinx, una criminal perturbada e impulsiva de Zaun, vive para sembrar el caos sin importarle las consecuencias. Provoca las explosiones más ruidosas y cegadoras con su arsenal de armas letales para dejar un rastro de terror y destrucción a su paso. Jinx... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>JINX</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Reclamada por el Vacío cuando era solo una niña, Kai'Sa logró sobrevivir por pura tenacidad y fuerza de voluntad. Sus experiencias la han convertido en una cazadora letal y, para algunos, el presagio de un futuro que preferirían no vivir para ver. Ahora... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KAI'SA</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Kalista, un espectro de cólera y castigo, es el inmortal espíritu de la venganza, una pesadilla acorazada que llega desde las Islas de la Sombra para dar caza a los embusteros y los traidores. Puede que todos los que han sido traicionados pidan venganza... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KALISTA</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>No hay mortal que ejemplifique las tradiciones espirituales de Jonia mejor que Karma. Es la personificación de un alma antigua reencarnada un sinfín de veces, que acumula los recuerdos de las vidas pasadas a la nueva y que ha sido bendecida con un poder... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KARMA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Karthus, heraldo del olvido, es un espíritu inmortal cuyos pavorosos cantos preceden al horror de su dantesca aparición. Los vivos temen la eternidad de la no muerte, pero Karthus solo percibe hermosura y pureza en su abrazo, una comunión perfecta entre... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KARTHUS</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Dejando tras sí una huella ardiente por los lugares más oscuros del mundo, Kassadin sabe que sus días están contados. Guía y aventurero de Shurima que ha viajado por medio mundo, había elegido formar a una familia entre las pacíficas tribus del sur... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KASSADIN</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Con un juicio decisivo y letal en el combate, Katarina es una de las mejores asesinas noxianas. Al ser la primogénita del legendario general Du Couteau, ha dado a conocer sus habilidades con asesinatos rápidos contra enemigos inconscientes. Una ambición... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KATARINA</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Kayle, nacida de un Aspecto de Targon en el punto álgido de las Guerras Rúnicas, honró el legado de su madre al continuar la lucha por la justicia con sus alas de llamas divinas. Durante muchos años, ella y su hermana gemela Morgana fueron las... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KAYLE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Shieda Kayn, un practicante sin par de la mortífera magia sombría, lucha por alcanzar su verdadero destino: llegar a guiar algún día a la Orden de la Sombra hacia una nueva era de supremacía jonia. Empuña la oscura arma viviente Rhaast, impasible ante... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KAYN</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Más allá de ser el rápido encargado de mantener el equilibrio en Jonia, Kennen es también el único yordle de los kinkou. A pesar de su pequeño y peludo tamaño, siempre está impaciente por enfrentarse a cualquier amenaza dando rienda suelta a una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KENNEN</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El Vacío crece y el Vacío se adapta; verdades que son más evidentes en Kha'Zix que en ningún otro de sus innumerables engendros. La evolución impulsa el núcleo de este horror mutante, nacido para sobrevivir y matar a los fuertes. Cuando se esfuerza por... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KHA'ZIX</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Divididos, pero nunca separados, Kindred representan las dos esencias de la muerte. El arco de Cordera ofrece una rápida liberación de los pesares del reino mortal a aquellos que aceptan su destino. Lobo da caza a quienes intentan escapar de él y les... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KINDRED</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Kled es un guerrero yordle tan intrépido como malhumorado y es la encarnación de la furiosa bravuconería noxiana. Los soldados del imperio lo adoran, sus oficiales desconfían de él y la clase noble lo detesta. Muchos afirman que ha luchado en todas y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KLED</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Escupido de una incursión deteriorada del Vacío en los yermos de Icathia, Kog'Maw es una criatura curiosa y pútrida con una boca enorme y cáustica. Esta particular criatura necesita morder y babear todo lo que esté a su alcance para comprenderlo. Aunque... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>KOG'MAW</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Misteriosa incluso para el resto de miembros de la camarilla de la Rosa Negra, LeBlanc es uno de los muchos nombres que usa una mujer pálida que ha manipulado a la gente y a los sucesos desde los primeros días de Noxus. Con el uso de la magia para... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LEBLANC</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Lee Sin, maestro de las artes marciales ancestrales de Jonia, es un luchador con principios que canaliza la esencia del espíritu del dragón para enfrentarse a cualquier desafío. Aunque perdió la vista hace muchos años, el monje guerrero ha dedicado su... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LEE SIN</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Imbuida del fuego del sol, Leona es una guerrera sagrada de los Solari que defiende el Monte Targon con su Hoja del cénit y su Escudo del amanecer. Su piel brilla como las estrellas y sus ojos resplandecen con el poder del aspecto celestial de su... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LEONA</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Lillia es una tímida cervatilla feérica que merodea a su antojo por los bosques jonios. Se oculta de los mortales, cuya misteriosa naturaleza la cautiva y la intimida a partes iguales, con la esperanza de descubrir por qué los sueños humanos han dejado... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LILLIA</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>La magia de Lissandra convierte el poder del hielo en algo oscuro y terrible. Con la fuerza de su hielo negro, además de congelar a aquellos que se le oponen, los empala y los destruye sin mostrar piedad. Se la conoce como ''la Bruja de Hielo'' entre... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LISSANDRA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Lucian, antiguo Centinela de la Luz, es un sombrío cazador de espíritus eternos a los que persigue implacablemente y los aniquila con sus pistolas reliquias. Después de que el macabro espectro Thresh asesinara a su mujer, Lucian se dejó llevar por el... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LUCIAN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Lulu, la yordle maga, es conocida por invocar ilusiones oníricas y criaturas imaginarias en sus viajes por Runaterra con su hada compañera, Pix. Lulu le da forma a la realidad a su antojo, transforma el tejido del mundo y de lo que ve como los límites... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LULU</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Luxanna Crownguard procede de Demacia, un reino insular en el que las habilidades mágicas se observan con temor y suspicacia. Capaz de manipular la luz a su voluntad, creció temiendo que la descubriesen y la exiliaran, por lo que se vio obligada a... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>LUX</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Maestro Yi ha atemperado su cuerpo y agudizado su mente, de modo que el pensamiento y la acción se han convertido casi en uno. Aunque elige emplear la violencia solo como último recurso, la gracia y la velocidad de su espada aseguran que el final... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MAESTRO YI</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Como una criatura enorme de piedra viviente, a Malphite le cuesta imponer el orden en un mundo caótico. Creado como sirviente de fragmentos de un obelisco sobrenatural conocido como el Monolito, usó su increíble fuerza elemental para mantener y proteger... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MALPHITE</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Malzahar, un fanático mago vidente dedicado a la unión de toda vida, está convencido de que el nuevo y emergente Vacío es el camino hacia la salvación de Runaterra. En pleno desierto de Shurima siguió las voces que susurraban en su mente hasta llegar a... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MALZAHAR</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Maokai es un imponente y feroz treant que lucha contra los horrores antinaturales de las Islas de la Sombra. Las ansias de venganza le inundaron después de que un cataclismo mágico destruyera su hogar, y sobrevive a la podredumbre únicamente por las... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MAOKAI</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sarah Fortune se cuenta sin duda entre los capitanes más conocidos de Aguas Estancadas y es tan célebre por su apariencia como temida por su ferocidad. Por eso despunta entre los criminales más peligrosos de esta ciudad portuaria. De niña, presenció... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MISS FORTUNE</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Mordekaiser es un sanguinario señor de la guerra proveniente de tiempos olvidados al que los siglos han visto nacer en tres ocasiones y morir en otras dos. Utiliza sus poderes necrománticos para atar almas perdidas a una vida eterna a su servicio. Ya no... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MORDEKAISER</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En vistas del conflicto entre su naturaleza celestial y su naturaleza mortal, Morgana decidió atarse las alas para aceptar la humanidad y deja caer el peso de su dolor y rencor sobre los deshonestos y los corruptos. Se opone a las leyes y tradiciones... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>MORGANA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Nami, una joven y testaruda vastaya marina, fue la primera de la tribu marai en abandonar las olas y aventurarse en tierra firme cuando se rompió el ancestral acuerdo de su tribu con los targonianos. A falta de otra opción, Nami se encargó de completar... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NAMI</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Nasus es un imponente ser Ascendido con cabeza de chacal procedente de la antigua Shurima; una figura heroica a la que las gentes del desierto han encumbrado al nivel de semidiós. Poseedor de una increíble inteligencia, fue un guardián del saber y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NASUS</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El gigante acorazado Nautilus, una leyenda solitaria tan antigua como los pecios de Aguas Estancadas, recorre las turbias aguas que rodean las costas de las Islas de la Llama Azul. Impulsado por una traición olvidada, ataca con su enorme ancla sin... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NAUTILUS</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Procedente de una tribu vastaya perdida hace mucho tiempo, Neeko puede fundirse entre la multitud adoptando el aspecto de los demás, incluso es capaz de absorber parte de su estado emocional y así distinguir inmediatamente a amigos y enemigos. Nadie... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NEEKO</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Criada en lo más profundo de la jungla, Nidalee es una rastreadora maestra que puede convertirse en un felino feroz a voluntad. No es completamente mujer ni bestia, pero defiende con fiereza su territorio de todos los invasores, con trampas colocadas... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NIDALEE</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>El ser conocido como Nocturne es una fusión demoníaca extraída de las pesadillas que acechan a todas las mentes conscientes y se ha convertido en una fuerza primordial de pura maldad. Tiene un aspecto líquido y caótico, una sombra sin rostro con ojos... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NOCTURNE</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Había una vez un niño que quería acabar con un temible monstruo para demostrar que era un héroe; pero que terminó descubriendo que la bestia, un yeti solitario y mágico, solo necesitaba un amigo. Ahora, Nunu y Willump, unidos por un poder ancestral y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>NUNU Y WILLUMP</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Olaf porta sus hachas de forma que es una fuerza imparable de destrucción que no quiere nada, salvo morir en un combate glorioso. Natural de Lokfar, una brutal península de Freljord, una vez escuchó una profecía que lo avisaba de una muerte tranquila... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>OLAF</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Orianna, antaño una chica curiosa de carne y hueso, es ahora una maravilla tecnológica compuesta exclusivamente de engranajes. Cayó gravemente enferma tras un accidente en los distritos inferiores de Zaun y su cuerpo moribundo tuvo que ser reemplazado... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ORIANNA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ornn es el espíritu de Freljord de la forja y la artesanía. Trabaja en la soledad de una enorme forja esculpida en las cavernas de lava bajo el volcán de Dulcehogar. En ella modela objetos de calidad sin igual y depura menas en burbujeantes calderos de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ORNN</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Tiempo atrás, Atreus había albergado al Aspecto de la Guerra en su interior contra su voluntad, pero sobrevivió al golpe que acabó con el poder divino y arrancó estrellas del firmamento. Con el paso de los años, aprendió a aceptar el poder de su propia... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>PANTHEON</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En Runaterra hay un gran número de campeones valerosos, pero muy pocos son tan tenaces como Poppy. Esta yordle tan obstinada porta el legendario martillo de Orlon, que la dobla en tamaño, y se ha pasado infinidad de años buscando en secreto al famoso... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>POPPY</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>A Pyke, un conocido arponero de los muelles del matadero de Aguas Estancadas, le esperaba la muerte en el estómago de una gigantesca criatura marina... y sin embargo, regresó. Desde entonces acecha en los fríos y húmedos callejones y caminos de la que... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>PYKE</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En la ciudad selvática de Ixaocan, Qiyana se dedica a planear sin clemencia alguna su ascenso al trono de los Yun Tal. Es la última en la línea de sucesión pero planta cara a todo aquel que se interpone en su camino con una confianza arrolladora y un... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>QIYANA</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Quinn es una amazona montaraz de élite de Demacia que emprende peligrosas misiones en territorio enemigo. Ella y su águila legendaria Valor comparten un vínculo inquebrantable, y sus enemigos suelen ser asesinados antes de que puedan darse cuenta de que... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>QUINN</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Con un carácter tan impulsivo como encantador, Rakan es un infame alborotador vastaya y el mejor bailarín de batalla de la historia tribal de Lhotlan. Para los humanos de las montañas de Jonia, su nombre siempre ha sido sinónimo de festivales... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RAKAN</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Idealizado por muchos, ignorado por otros, inexplicable para todos, Rammus, el extraño ser, es todo un enigma. Protegido por un armazón de pinchos, inspira teorías cada vez más absurdas sobre sus orígenes allá donde va. Estas pasan por considerarlo un... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RAMMUS</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Rek'Sai, en la cima de la pirámide de los depredadores, es un ente del Vacío despiadado que excava túneles por debajo del terreno para emboscar y devorar a presas ignorantes. Su insaciable hambre ha sembrado la destrucción en regiones enteras del... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>REK'SAI</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Rell, producto de crueles experimentos a manos de la Rosa Negra, es ahora una intrépida arma viviente decidida a hacer caer Noxus. Su infancia estuvo marcada por la desdicha y el horror, pues se vio sometida a espeluznantes tratamientos para... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RELL</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Renekton es una terrorífica criatura Ascendida movida por la ira y procedente de los desiertos abrasadores de Shurima. En su día fue el guerrero más admirado del imperio, un líder que condujo a los ejércitos de la nación a incontables victorias. Sin... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RENEKTON</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Rengar es un feroz cazador de trofeos vastaya que vive por el placer de perseguir y asesinar criaturas peligrosas. Explora el mundo en busca de las bestias más aterradoras, pero, ante todo, quiere encontrar alguna pista que lo lleve hasta Kha'Zix, la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RENGAR</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Antaño maestra de la espada de las huestes de Noxus, Riven es una expatriada en la tierra que previamente había tratado de conquistar. Fue ascendiendo de rango gracias a la fuerza de su convicción y a su brutal eficiencia, y fue recompensada con una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RIVEN</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Rumble es un joven inventor con temperamento. Utilizando nada más que sus propias manos y un montón de chatarra, el yordle peleón construyó un traje mecha colosal equipado con un arsenal de arpones electrificados y cohetes incendiarios. Aunque los demás... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RUMBLE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Ryze es considerado uno de los hechiceros con más experiencia de Runaterra. El archimago ancestral y gruñón lleva sobre sus hombros una pesada carga. Con su constitución sin límites y su inmenso poder arcano, Ryze se pasa la vida buscando... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>RYZE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Samira mira a la muerte a los ojos con una confianza férrea, y va siempre en busca de emociones. Tras la destrucción de su hogar en Shurima cuando era una niña, Samira encontró su verdadera vocación en Noxus, donde se ganó la reputación de ser una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SAMIRA</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sejuani es la brutal e implacable comandante hija del hielo de la tribu Garra Invernal, una de las más temidas de Freljord. La supervivencia de su gente es una constante y desesperada lucha contra los elementos, lo que los obliga a asaltar a noxianos... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SEJUANI</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Maldita desde que era apenas una niña y perseguida por la Niebla Negra, Senna se unió a una orden sagrada conocida como los Centinelas de la Luz y pasó años luchando sin descanso hasta que fue asesinada y encerrada en el interior de la linterna del... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SENNA</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Seraphine, de padres zaunitas, nació en Piltover y es capaz de escuchar las almas de los demás. El mundo le canta y ella le devuelve la canción. Aunque esos sonidos le resultaban abrumadores cuando era pequeña, ahora le sirven de inspiración, y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SERAPHINE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sett es una prominente figura en los emergentes círculos criminales jonios, que aseguró su posición al inicio de la guerra con Noxus. A pesar de sus humildes comienzos como luchador en el foso de Navori, no tardó en labrarse una reputación con la ayuda... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SETT</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Shaco fue fabricado hace mucho tiempo para entretener a un príncipe solitario, pero ahora la marioneta encantada se regocija en la muerte y el caos. El otrora adorable muñeco fue corrompido por magia oscura y por la pérdida de su amado dueño, de modo... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SHACO</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Shen, el Ojo del Crepúsculo, es el cabecilla de los sigilosos guerreros de Jonia conocidos como Kinkou. Su objetivo es mantenerse libre de las ataduras de cualquier emoción, prejuicio o ego, y avanza por el camino invisible del juicio desapasionado... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SHEN</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Shyvana es una criatura con la magia de un fragmento de runa incandescente alojada en lo más profundo de su corazón. Pese a que su aspecto más común es el de humana, su verdadera forma es la de una feroz dragona capaz de reducir a sus enemigos a cenizas... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SHYVANA</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Singed es un alquimista zaunita de intelecto sin igual que se ha entregado en cuerpo y alma a sobrepasar los límites del conocimiento, sin importarle el precio que tenga que pagar. ¿Acaso su locura se rige por pautas? Sus brebajes no suelen fallar, pero... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SINGED</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sion fue un héroe de guerra en el pasado y los noxianos lo veneraban porque había arrebatado la vida de un rey demaciano con sus simples manos. No obstante, se le denegó su viaje al más allá, pues fue revivido para servir a su imperio incluso después de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SION</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sivir es una afamada buscadora de tesoros y capitana mercenaria que se gana la vida en el desierto de Shurima. Provista de un arma legendaria en forma de cruz engastada con gemas, ha librado y ganado innumerables batallas para aquellos que pueden... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SIVIR</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Skarner es un gigantesco escorpión cristalino, procedente de un oculto valle de Shurima. La antigua raza a la que Skarner pertenece, los brackern, es famosa por su sabiduría y su profunda conexión con la tierra, pues sus almas están fundidas con... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SKARNER</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sona es la artista más virtuosa de Demacia con el etwahl de cuerda y solo se comunica a través de sus elegantes acordes y vibrantes melodías. Esta refinada actitud le ha hecho ganarse el favor de la alta sociedad, aunque los hay que sospechan que sus... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SONA</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Soraka, una nómada proveniente de las dimensiones celestiales más allá del monte Targon, dejó a un lado su inmortalidad para proteger a las razas mortales de sus propios instintos asesinos. Su cometido es difundir las virtudes de la compasión y la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SORAKA</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Jericho Swain es el visionario líder de Noxus, una nación expansionista que solo venera la fuerza. Pese a haber sido relegado y a haber perdido el brazo izquierdo en las guerras de Jonia, se hizo con el control del imperio con una despiadada... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SWAIN</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sylas de Dregbourne, originario de uno de los barrios más pobres de Demacia, llega como símbolo del lado más oscuro de la gran ciudad. De niño, su potencial para hallar la brujería oculta llamó la atención de los cazadores de magos más prestigiosos... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SYLAS</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Syndra es una temible maga jonia con un poder increíble a su disposición. De niña, inquietó a los ancianos del lugar con su imprudente y tempestuosa magia. La enviaron a que aprendiera a controlarla mejor, pero al final descubrió que su supuesto mentor... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>SYNDRA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Tahm Kench, al que se le han atribuido diferentes nombres a lo largo de la historia, es un demonio que viaja por los canales de Runaterra colmando su insaciable apetito con las desgracias ajenas. Pese a que pueda parecer cautivador y orgulloso, se... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TAHM KENCH</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Taliyah es una hechicera nómada de Shurima desgarrada entre la curiosidad de una adolescente y la responsabilidad de una adulta. Ha atravesado Valoran de un lado a otro para descubrir la auténtica naturaleza de sus crecientes poderes, aunque... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TALIYAH</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Talon es el cuchillo de la oscuridad, un asesino despiadado capaz de atacar sin previo aviso y huir antes de que salte alarma alguna. Logró granjearse una peligrosa reputación en las terribles calles de Noxus, donde se vio obligado a luchar, matar y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TALON</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Taric es el Aspecto del Protector, y gracias a su increíble poder es el guardián de la vida, el amor y la belleza en Runaterra. Caído en desgracia debido a la negligencia de su deber y exiliado de su hogar, Demacia, Taric ascendió al Monte Targon... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TARIC</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Sin inmutarse siquiera por los obstáculos más peligrosos y amenazantes, Teemo explora el mundo con un entusiasmo infinito y una alegría desbordante. Con un inquebrantable sentido de la moralidad, este yordle se enorgullece de seguir el Código de los... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TEEMO</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Thresh, un ser sádico y astuto, es un ambicioso y trastornado espíritu de las Islas de la Sombra. Otrora guardián de innumerables secretos arcanos, acabó sucumbiendo a un poder por encima de la vida y la muerte. Ahora sobrevive torturando a sus víctimas... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>THRESH</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Pese a que la mayoría de los yordles canalizan sus energías hacia el descubrimiento, la invención o simples trastadas, Tristana siempre se ha visto inspirada por las aventuras de los grandes guerreros. Siempre ha escuchado las historias de Runaterra... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TRISTANA</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Trundle es un trol retorcido y colosal con una personalidad despiadada. No hay nada que no sea capaz de someter a base de mazazos, ni siquiera el propio Freljord. Su tremendo instinto territorial lo mueve a perseguir a todo aquel lo bastante osado como... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TRUNDLE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Impulsado por una furia y una rabia desenfrenadas, Tryndamere solía abrirse paso por Freljord desafiando abiertamente a los mejores guerreros del norte con el objetivo de prepararse para días aún más oscuros. El furioso bárbaro lleva una eternidad... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TRYNDAMERE</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Twisted Fate es un tahúr y timador de mala reputación que ha viajado por buena parte del mundo conocido, granjeándose con su encanto y su habilidad con los naipes la admiración y la enemistad de ricos y necios por igual. Raras veces se toma las cosas... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TWISTED FATE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Rata de la peste zaunita por nacimiento y apasionado experto de la suciedad por afición, a Twitch no le preocupa ensuciarse las zarpas. Con su ballesta de cualidades químicas apuntando al corazón hipócrita de Piltover, se ha jurado demostrar a los... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>TWITCH</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Udyr es algo más que un hombre; es un recipiente para el poder indomable de cuatro espíritus animales primigenios. Al canalizar la naturaleza primaria de los espíritus, Udyr puede emplear sus fuerzas únicas: el tigre le proporciona velocidad y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>UDYR</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Urgot, antiguo verdugo noxiano, fue traicionado por el imperio por el que había matado a tantos. Amarrado con cadenas de hierro, se vio obligado a aprender el verdadero significado de la fuerza en la Draga; una mina penitenciaria en las profundidades de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>URGOT</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Como uno de los antiguos oscuros Varus era un asesino despiadado al que le encantaba torturar a sus enemigos hasta las puertas de la locura antes de atravesarlos con una flecha letal. Fue apresado y encarcelado al final de la gran Guerra Oscura, pero... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VARUS</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Shauna Vayne es una cazadora de monstruos demaciana letal y despiadada que ha dedicado su vida a buscar y destruir al demonio que asesinó a su familia. Provista de una ballesta que lleva en la muñeca y un corazón ansioso de venganza, Vayne solo es... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VAYNE</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Entusiasta maestro de la magia negra, Veigar ha hecho suyos poderes a los que pocos mortales se atreven a acercarse. Como espíritu de Ciudad de Bandle, buscó durante mucho tiempo deshacerse de las limitaciones de la magia yordle, así que su atención se... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VEIGAR</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>No es seguro que Vel'Koz sea el primer ente del Vacío que ha aparecido en Runaterra, pero no ha habido ningún otro con su nivel de crueldad y conciencia calculadora. Mientras que los de su especie devoran y profanan todo cuanto encuentran, él busca el... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VEL'KOZ</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En el oscuro corazón de las Islas de la Sombra, una yordle solitaria atraviesa arduamente la bruma espectral, satisfecha con su tenebrosa miseria. Con una angustia adolescente inagotable y una poderosa sombra tras de sí, Vex vive en un planeta de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VEX</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Otrora delincuente en las perversas calles de Zaun, Vi es una mujer impulsiva e imponente con muy poco respeto por las figuras de la autoridad. Tras crecer sola, Vi desarrolló y perfeccionó sus instintos de supervivencia, así como un áspero sentido del... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VI</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Viego, soberano de un reino ya olvidado, murió hace más de mil años cuando su intento por devolverle la vida a su esposa desencadenó una catástrofe mágica conocida como la Ruina. Ahora Viego, trasformado en un poderoso espectro atormentado por el anhelo... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VIEGO</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Viktor, el heraldo de una nueva era tecnológica, ha consagrado su vida al progreso de la humanidad. Es un idealista que busca llevar al pueblo de Zaun a un nuevo nivel de comprensión y cree que la humanidad solo podrá alcanzar su máximo potencial... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VIKTOR</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Un demonio con sed de sangre mortal, Vladimir ha influido en el destino de Noxus desde los primeros días del imperio. Además de alargar su vida de forma sobrenatural, su amplio conocimiento de la hemomancia le posibilita controlar el cuerpo y la mente... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VLADIMIR</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Para aquellos que aún lo veneran, Volibear es la encarnación de la tormenta. Destructivo, salvaje y decidido, existe desde antes de que los mortales pusieran pie en las tundras de Freljord y protege con fiereza las tierras que creó junto a sus hermanos... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>VOLIBEAR</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Warwick es un monstruo que acecha en los oscuros callejones de Zaun. Transformado por atroces experimentos, su cuerpo está fusionado con un complejo sistema de cámaras y bombas, una maquinaria que llena sus venas de furia alquímica. Saltando desde las... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>WARWICK</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Wukong es un embaucador vastaya que se vale de su fuerza, agilidad e inteligencia para confundir a sus oponentes y conseguir ventaja. Tras forjar una amistad para toda la vida con el guerrero conocido como el Maestro Yi, Wukong se convirtió en el último... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>WUKONG</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Mortal y precisa, Xayah es una vastaya revolucionaria que libra una guerra personal para salvar a su pueblo. Utiliza su rapidez, su astucia y sus plumas afiladas como cuchillas para liquidar a cualquiera que se interponga en su camino. Xayah lucha junto... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>XAYAH</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Xerath es un mago Ascendido de la vieja Shurima, un ser con energía arcana retorciéndose en los quebrados fragmentos de un sarcófago mágico. Durante milenios estuvo atrapado bajo las arenas del desierto, pero el ascenso de Shurima lo liberó de su... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>XERATH</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Xin Zhao es un guerreo decidido y valiente, leal a la dinastía Escudo de Luz. En su momento fue condenado a los fosos noxianos, en los que sobrevivió a incontables batallas de gladiadores. Pero, tras ser liberado por las fuerzas demacianas, entregó su... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>XIN ZHAO</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Yasuo, un intrépido jonio con una fuerza de voluntad inquebrantable, es también un hábil espadachín capaz de controlar el viento y utilizarlo contra sus enemigos. Siendo un joven orgulloso fue injustamente acusado de asesinar a su maestro. Incapaz de... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>YASUO</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>En vida, fue Yone, hermanastro de Yasuo y pupilo de renombre en la escuela de esgrima de su aldea. No obstante, al morir a manos de su hermano, se vio perseguido por una maligna entidad del reino espiritual y acabó por asesinarlo con su propia espada... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>YONE</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Yorick, último superviviente de una orden religiosa olvidada hace tiempo, carga con la bendición y la maldición del poder sobre los muertos. Atrapado en las Islas de la Sombra, sus únicos compañeros son cadáveres en descomposición y los espíritus... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>YORICK</CHAMPION_NAME>
+        <CHAMPION_ROL>LUCHADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Yuumi, una gata mágica de Ciudad de Bandle, fue antaño la compañera de una hechicera yordle, Norra. Tras la misteriosa desaparición de su maestra, Yuumi se convirtió en la guardiana del Libro de umbrales de Norra, un objeto sintiente cuyas páginas... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>YUUMI</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Zac es el resultado de un vertido tóxico que recorría una veta tecnoquímica y fue a parar a una profunda caverna apartada en el sumidero de Zaun. A pesar de sus humildes orígenes, Zac ha pasado de ser un flujo primitivo a un ser pensante que habita en... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZAC</CHAMPION_NAME>
+        <CHAMPION_ROL>TANQUE</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Zed, despiadado y nada compasivo, es el líder de la Orden de la Sombra, una organización que él mismo creó con el propósito de militarizar las tradiciones marciales y mágicas de Jonia para expulsar a los invasores noxianos. Durante la guerra, la... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZED</CHAMPION_NAME>
+        <CHAMPION_ROL>ASESINO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Una joven testaruda y llena de vida de la clase trabajadora de Zaun. Zeri canaliza su magia eléctrica para cargarse a sí misma y su fusil personalizado. Su volátil poder canaliza sus emociones, y sus chispas se inspiran en su veloz estilo de vida... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZERI</CHAMPION_NAME>
+        <CHAMPION_ROL>TIRADOR</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Gran amante de las bombas grandes y las mechas cortas, el yordle Ziggs es una explosiva fuerza de la naturaleza. Trabajaba como ayudante de un inventor en Piltover, pero, cansado de llevar una vida tan aburrida y monótona, decidió hacerse amigo de una... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZIGGS</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Zilean, el que un día fuera un poderoso mago de Icathia, se obsesionó con el paso del tiempo tras ser testigo de la destrucción de su tierra natal a manos del Vacío. Incapaz de parar un minuto a llorar tan catastrófica pérdida, se entregó a la vetusta... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZILEAN</CHAMPION_NAME>
+        <CHAMPION_ROL>APOYO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Como personificación de la travesura, de la imaginación y del cambio, Zoe es la mensajera cósmica de Targon y anuncia acontecimientos importantes que remodelan mundos. Su mera presencia distorsiona las matemáticas arcanas que gobiernan las realidades y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZOE</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
+    <Campeon>
+        <CHAMPION_HISTORY>Nacida gracias a un fenómeno sobrenatural hace mucho tiempo, Zyra encarna la ira de la naturaleza: un seductor híbrido entre planta y humano que da lugar a nueva vida a cada paso. Ve a los mortales de Valoran como poco más que presas para su progenie, y... VER MÁS</CHAMPION_HISTORY>
+        <CHAMPION_NAME>ZYRA</CHAMPION_NAME>
+        <CHAMPION_ROL>MAGO</CHAMPION_ROL>
+    </Campeon>
 </Campeones>
